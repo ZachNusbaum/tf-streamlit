@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 
 st.title("Deeplink Test Data")
-st.text('Region: us-east-1')
 
 params_to_show = ['params/country', 'params/artist', 'params/song', 'params/album', 'params/soundtrack', 'params/search']
 
